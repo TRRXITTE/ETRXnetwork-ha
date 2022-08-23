@@ -31,7 +31,7 @@ N/A
 
 ## Easy Start
 
-You *must* copy ```ETRXnetwork ( renamed ETRXnetwork )``` into the ```ETRXnetwork-ha``` folder for the easy start process to occur.
+You *must* copy ```ETRXnetwork``` into the ```ETRXnetwork-ha``` folder for the easy start process to occur.
 
 ```bash
 git clone https://github.com/TRRXITTE/ETRXnetwork-ha.git 
